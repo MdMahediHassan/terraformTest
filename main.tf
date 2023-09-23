@@ -5,7 +5,7 @@ provider "azurerm" {
   }
 
 }
-
+/*
 resource "azurerm_resource_group" "myname"{
     name = "rgnew"
     location = "eastus"
@@ -38,3 +38,4 @@ resource "azurerm_network_interface" "myname" {
       private_ip_address_allocation = "Dynamic"
     }
 }
+*/
